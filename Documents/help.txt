@@ -1,0 +1,17 @@
+Commands:
+	
+	W or Up = Moves your character up by 1 position.
+	A or Left = Moves your character left by 1 position.
+	S or Right = Moves your character right by 1 position.
+	D or Down = Moves your character down by 1 position.
+	Q = Moves your character diagonally left-up by 1 position.
+	E = Moves your character diagonally right-up by 1 position.
+	Z = Moves your character diagonally left-down by 1 position.
+	C = Moves your character diagonally right-down by 1 position.
+	Monsters = Shows a list of monsters alive and their positions.
+	Help or H = Shows you how to play the game (this page).
+	Map or M = Shows you the current map.
+	Menu = Takes you back to the menu, you will loose all progress.
+	Exit or Quit = Exits the game.
+
+ Type 'back' to return.
